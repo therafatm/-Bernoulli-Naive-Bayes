@@ -5,3 +5,7 @@ A bare bones implementation of Bernoulli Naive Bayes. It uses the `fetch_20newsg
   - Numpy
   - Scikit-Learn
   - Python 2.7
+
+### To Run:
+  - Get all the dependencies (pip or brew)
+  - `python bayes.py`
